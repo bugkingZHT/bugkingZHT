@@ -1,6 +1,6 @@
-### Hi there 👋 I'm ZHT
+### Hi there 👋 I'm huN7er
 
-> also **huN7er** / **bugkingZHT** / **2#7**
+> also **bugkingZHT** / **2#7**
 
 😄 Be patience. Be Active. Be Efficient.
 
