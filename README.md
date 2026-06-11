@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm huN7er
 
-> also **bugkingZHT** / **2#7**
-
 😄 Be patience. Be Active. Be Efficient.
 
 ```
