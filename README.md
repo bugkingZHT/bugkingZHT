@@ -15,8 +15,8 @@ __________ ____ ___  ________ ____  __.___ _______    ________
 
 <a href="https://github.com/free4inno/kubeiaas"><img src="https://img.shields.io/badge/free4inno-kubeiaas-blue"></a>
 <a href="https://gitee.com/free4inno-team/zhi"><img src="https://img.shields.io/badge/free4inno-zhi-brightgreen"></a>
-<a href="https://www.zhihu.com/people/mercibeac0up/posts"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%231877F2.svg?logo=zhihu&logoColor=white"></a>
-<a href="https://blog.csdn.net/bugkingZHT?type=blog"><img src="https://img.shields.io/badge/CSDN-FF6F00?logo=CSDN&logoColor=white"></a>
+<!-- <a href="https://www.zhihu.com/people/mercibeac0up/posts"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%231877F2.svg?logo=zhihu&logoColor=white"></a> -->
+<!-- <a href="https://blog.csdn.net/bugkingZHT?type=blog"><img src="https://img.shields.io/badge/CSDN-FF6F00?logo=CSDN&logoColor=white"></a> -->
 <a href="https://gitee.com/bugkingzht"><img src="https://img.shields.io/badge/-Gitee-red?logo=Gitee&logoColor=white"></a>
 
 <!-- KubeIaaS is a feature-rich and user-friendly private IaaS cloud solution based on Kubernetes.  -->
